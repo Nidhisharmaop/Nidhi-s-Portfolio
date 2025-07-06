@@ -21,7 +21,7 @@ const Education = () => {
             <p className="text-slate-700 dark:text-slate-300">
               Himachal Pradesh University (2019 – 2022)
             </p>
-            <p className="text-sm text-slate-500 dark:text-slate-400">Percentage: 65%</p>
+            <p className="text-sm text-slate-500 dark:text-slate-400">Percentage: 68%</p>
           </div>
 
           <div className="bg-white dark:bg-slate-900 p-6 rounded-lg shadow">
