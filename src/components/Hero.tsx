@@ -2,9 +2,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section
-      className="text-center py-20 bg-[url('/.jpg')] bg-cover bg-center bg-no-repeat relative"
-    >
+    <section className="text-center py-20 bg-slate-100 dark:bg-slate-800 relative">
       <div className="container mx-auto px-4 bg-white/80 dark:bg-slate-900/80 rounded-lg backdrop-blur-sm">
         <h1 className="text-4xl md:text-6xl font-bold text-slate-900 dark:text-white mb-4">
           Hi, I'm <span className="text-blue-600">Nidhi Sharma</span>
